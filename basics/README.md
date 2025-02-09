@@ -1,1 +1,1 @@
-Creation of a script that prints the absolute path name of the current working directory
+Creation of multiple SHEBANG scripts, learning about basic shell commands and navigation.
